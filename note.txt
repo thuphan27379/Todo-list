@@ -1,0 +1,8 @@
+***check console
+dat console ngay sau dieu kien, o trong function
+ben browser, rightmouse vao Inspect, chon Console
+co the tim value can lay
+***check component
+vao Inspect, chon Component
+chon App(ten component can check)
+se thay ben phai, hooks - state

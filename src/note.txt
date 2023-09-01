@@ -1,0 +1,30 @@
+flow:
+step 1 - build a static verion - phien ban ti~nh
+- 1. <ProfilePage/>
+- 2. <NavBar/>
+- 3. <SideMenu/>
+  - 4. <CoWorkerList/>
+- 5. <ProfilePageMain/> OR <ProjectMain/>
+  - 6. <ProjectDetail/>
+    - 7. <TaskList/>
+      - 8. <TaskItem/>
+
+
+step 2 - identify states - bat cu 1 thay doi UI thi la 1 state
+
+- the list of tasks
+- the text of the new task that user has entered
+- the value of the checkbox show incompleted tastk only
+
+step 3 - handling events
+
+- form submit for a new task
+- change a task's status
+- removing a task
+- toggle show incompleted tasks only
+
+tieu de => component header
+danh sach todo list => task list - task item
+form add task => add form
+
+
